@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#408080",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "title": "Oakland Nature Park",
+        "description": "<a href=\"http://www.w3schools.com\">Visit W3Schools</a>",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63975834846497,
+          28.554697284132846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2b2b",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "title": "Northern Terminus",
+        "description": "",
+        "type": "byway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65746092796326,
+          28.806041892059262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2b2b",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "title": "Southern Terminus",
+        "description": "",
+        "type": "byway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57945156097412,
+          28.566704867823375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#408080",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "title": "Green Mountain Scenic Overlook and Trailhead",
+        "description": "<p>20700 CR 455<br/>Ferndale, Florida USA</p>",
+        "type": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.710064,
+          28.645756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "title": "Clay Island Trailhead",
+        "description": "",
+        "type": "trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.707364,
+          28.674312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "title": "North Shore Trailhead",
+        "description": "",
+        "type": "trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.673086,
+          28.704448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#408080",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "title": "Magnolia Park",
+        "description": "",
+        "type": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.551069,
+          28.63488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#408080",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "title": "<h1>Ferndale Preserve</h1>",
+        "description": "<p>19220 County Rd 455<br/>Clermont, FL 34715<br /> <a href=\"http://www.lakecountyfl.gov/departments/public_resources/parks/ferndale_preserve.aspx\">lakecountyfl.gov</a></p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.695244,
+          28.627112
+        ]
+      }
+    }
+  ]
+}
